@@ -1,3 +1,8 @@
+'''
+This script will download the TCIA Lymphoma dataset to the same directly it is run in. NOTE: this will take a while.
+'''
+
+
 import pandas as pd
 import pandas
 from tciaclient import TCIAClient
